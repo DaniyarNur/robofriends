@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/robosearch/static/css/main.20bbc6fe.css",
+    "main.js": "/robosearch/static/js/main.24161f26.js",
+    "static/media/SEGA.woff": "/robosearch/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/robosearch/index.html",
+    "main.20bbc6fe.css.map": "/robosearch/static/css/main.20bbc6fe.css.map",
+    "main.24161f26.js.map": "/robosearch/static/js/main.24161f26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20bbc6fe.css",
+    "static/js/main.24161f26.js"
+  ]
+}
